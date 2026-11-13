@@ -1,0 +1,23 @@
+{
+  "best_model": "Logistic Regression",
+  "features": [
+    "Type",
+    "Air temperature [K]",
+    "Process temperature [K]",
+    "Rotational speed [rpm]",
+    "Torque [Nm]",
+    "Tool wear [min]"
+  ],
+  "target": "Machine failure",
+  "dropped_columns": [
+    "UDI",
+    "Product ID",
+    "TWF",
+    "HDF",
+    "PWF",
+    "OSF",
+    "RNF"
+  ],
+  "threshold": 0.5,
+  "note": "Threshold 0.5 is the default. Adjust using validation data and business costs."
+}
