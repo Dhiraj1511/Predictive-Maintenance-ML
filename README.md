@@ -91,17 +91,5 @@ Your browser will open the local dashboard. The dashboard supports one-machine p
 - Thresholds should be selected using validation data and the cost of missed failures versus false alarms.
 - This is an academic demonstration, not a certified industrial safety system.
 
-## Suggested report structure
-1. Abstract
-2. Introduction and problem statement
-3. Dataset description
-4. Data preprocessing and exploratory analysis
-5. Methodology and model design
-6. Evaluation metrics and results
-7. Explainability and anomaly detection
-8. Dashboard and use case
-9. Limitations
-10. Conclusion and future work
-
 ## Source
 UCI Machine Learning Repository, AI4I 2020 Predictive Maintenance Dataset: https://archive.ics.uci.edu/dataset/601/ai4i
